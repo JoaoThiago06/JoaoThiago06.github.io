@@ -1,5 +1,5 @@
 ﻿CACHE MANIFEST
-#1504478469
+#1504541681
 data.js
 c2runtime.js
 jquery-2.1.1.min.js
@@ -28,6 +28,21 @@ images/trans-sheet0.png
 images/trans-sheet1.png
 images/scorei-sheet0.png
 images/scorei-sheet1.png
+images/inimigou-sheet0.png
+images/inimigou-sheet1.png
+images/inimigou-sheet2.png
+images/enemybullet-sheet0.png
+images/fundo-sheet0.png
+images/fundo-sheet1.png
+images/fundo-sheet2.png
+images/playy-sheet0.png
+images/sprite3-sheet0.png
+images/sprite5-sheet0.png
+images/alienzistass.png
+images/créditos-sheet0.png
+images/logou-sheet0.png
+images/btnpause-sheet0.png
+images/inimigo2-sheet0.png
 media/fase1.ogg
 media/fim.ogg
 media/inicio.ogg
