@@ -1,5 +1,5 @@
 ﻿CACHE MANIFEST
-#1504543776
+#1504544928
 data.js
 c2runtime.js
 jquery-2.1.1.min.js
@@ -43,9 +43,14 @@ images/créditos-sheet0.png
 images/logou-sheet0.png
 images/btnpause-sheet0.png
 images/inimigo2-sheet0.png
+images/inimigo2-sheet1.png
+images/inimigo2-sheet2.png
 media/fase1.ogg
 media/fim.ogg
 media/inicio.ogg
+media/karol.ogg
+media/karoll.ogg
+media/karolll.ogg
 icon-16.png
 icon-32.png
 icon-114.png

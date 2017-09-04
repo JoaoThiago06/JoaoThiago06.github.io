@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1504543776,
+	"version": 1504544928,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -44,9 +44,14 @@
 		"images/logou-sheet0.png",
 		"images/btnpause-sheet0.png",
 		"images/inimigo2-sheet0.png",
+		"images/inimigo2-sheet1.png",
+		"images/inimigo2-sheet2.png",
 		"media/fase1.ogg",
 		"media/fim.ogg",
 		"media/inicio.ogg",
+		"media/karol.ogg",
+		"media/karoll.ogg",
+		"media/karolll.ogg",
 		"icon-16.png",
 		"icon-32.png",
 		"icon-114.png",
