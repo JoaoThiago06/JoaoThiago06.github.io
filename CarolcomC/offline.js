@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1512657469,
+	"version": 1512662163,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -191,6 +191,8 @@
 		"images/sprite23-sheet0.png",
 		"images/sprite26-sheet0.png",
 		"images/sprite29-sheet0.png",
+		"media/353543__maxmakessounds__happy-theme.m4a",
+		"media/353543__maxmakessounds__happy-theme.ogg",
 		"icon-16.png",
 		"icon-32.png",
 		"icon-114.png",
