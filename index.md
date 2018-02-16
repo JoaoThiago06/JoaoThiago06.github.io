@@ -10,7 +10,7 @@ Aluninho de jogos aprendendo a fazer um portfólio
 
 # Portifólio
 
-[![](wwwwwwwwwwww.png)](https://www.youtube.com/watch?v=Gjgy1-mSG64)
+[![](wwwwwwwwwwww.png)](https://www.youtube.com/user/gerrard628/featured?disable_polymer=true)
 
 # Artes
 ![](aa.gif)
