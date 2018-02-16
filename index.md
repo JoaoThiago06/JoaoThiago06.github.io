@@ -16,13 +16,13 @@ Aluninho de jogos aprendendo a fazer um portfólio
 ![](aa.gif)
 ![UNICORN](https://i.pinimg.com/736x/dc/18/ab/dc18abcbf686a86b7df630cf1f10a1b1--pixel-crochet-pattern-crochet-patterns.jpg)
 
-## Games
+# Games
 
 [![](Ivern_Render.png)](https://pbs.twimg.com/media/DHfTQCrVwAAHzMM.jpg)
 [JOGO1]()
 
-## Projetos
-### Aulas
+# Projetos
+## Aulas
 ### Proj Teatro
 
 1. Marcelo
