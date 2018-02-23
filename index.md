@@ -5,6 +5,7 @@ layout: default
 Criando **minha** _página_ ~~principal~~.
 
 # Quem sou eu?
+![](joao.png)  
 
 * João Thiago de Menezes Pereira
 * Aluninho de Programação de Jogos DIigtais 3º Vespertino
