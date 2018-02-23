@@ -17,6 +17,7 @@ Criando **minha** _página_ ~~principal~~.
 # Portifólio
 
 [![](wwwwwwwwwwww.png)](https://www.youtube.com/user/gerrard628/featured?disable_polymer=true)
+[![](face.png)]
 
 # Artes
 ![](aa.gif)
