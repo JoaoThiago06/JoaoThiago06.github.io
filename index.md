@@ -12,7 +12,7 @@ Criando **minha** _página_ ~~principal~~.
 * 17y :p
 
 ## Hobbies
- * Músico nas horas livres (~~quase nunca né~~), sou baixista, mas toco outros instrumentos :v
+ * Músico nas horas livres (~~quando da né kk~~), sou baixista, mas toco outros instrumentos :v
  * E jogo (~~viciado~~) League of Legends(LOL), add lá: **jaum18**;
 
 # Artes
@@ -22,7 +22,8 @@ Criando **minha** _página_ ~~principal~~.
 * Alienzista  
 [![](alienzista.png)](https://joaothiago06.github.io/Alienzistas/)  
 * Aplistia  
-[![](aplistia.png)](https://joaothiago06.github.io/Aplistia_/)                                                                                            
+[![](aplistia.png)](https://joaothiago06.github.io/Aplistia_/)    
+                   (https://joaothiago06.github.io/CarolcomC/)
 
 ## Contatos  
 
