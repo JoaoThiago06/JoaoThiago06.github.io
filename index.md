@@ -18,6 +18,7 @@ Criando **minha** _página_ ~~principal~~.
 
 [![](youtube.png)]
 [![](face.png)]
+[![](instagram.png)]
 
 # Artes
 ![](aa.gif)
