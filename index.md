@@ -12,7 +12,7 @@ Criando **minha** _página_ ~~principal~~.
 
 ## Hobbies
  * Músico nas horas livres (~~quase nunca né~~), sou baixista, mas toco outros instrumentos :v
- * É jogo (~~viciado~~) em League of Legends(LOL), add lá: jaum18;
+ * E jogo (~~viciado~~) em League of Legends(LOL), add lá: **jaum18**;
 
 # Portifólio
 
