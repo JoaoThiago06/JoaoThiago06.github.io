@@ -14,20 +14,17 @@ Criando **minha** _página_ ~~principal~~.
  * Músico nas horas livres (~~quase nunca né~~), sou baixista, mas toco outros instrumentos :v
  * E jogo (~~viciado~~) em League of Legends(LOL), add lá: **jaum18**;
 
-# Portifólio
-
-[![](face.png)](https://www.facebook.com/joaothiago.pereira.7)   
-[![](youtube.png)](https://www.youtube.com/channel/UCWCkuhb_VKzn48nZdGiKBwA?view_as=subscriber)
-
-
-
 # Artes
 ![](aa.gif)
 
 # Games
-[![](alienzista.png) https://joaothiago06.github.io/Alienzistas/
+[![](alienzista.png)] (https://joaothiago06.github.io/Alienzistas/)
 [![](Ivern_Render.png)](https://pbs.twimg.com/media/DHfTQCrVwAAHzMM.jpg)
 [JOGO1]()
+
+# Contatinhos :v
+[![](face.png)](https://www.facebook.com/joaothiago.pereira.7)   
+[![](youtube.png)](https://www.youtube.com/channel/UCWCkuhb_VKzn48nZdGiKBwA?view_as=subscriber)
 
 # Projetos
 ## Aulas
