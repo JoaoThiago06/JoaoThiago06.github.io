@@ -15,8 +15,14 @@ Criando **minha** _página_ ~~principal~~.
  * Músico nas horas livres (~~quando da né kk~~), sou baixista, mas toco outros instrumentos :v
  * E jogo (~~viciado~~) League of Legends(LOL), add lá: **jaum18**;
 
+#  Áudio
+https://www.youtube.com/watch?v=r0elO51AfWM 
+https://www.youtube.com/watch?v=HW8QQ3JgRxY
+
 # Artes
-![](aa.gif) (~~não sou muito de mexer de nas artes kks~~) mas segue algo meu de áudio:https://www.youtube.com/watch?v=r0elO51AfWM https://www.youtube.com/watch?v=HW8QQ3JgRxY
+![](aa.gif) (~~não sou muito de mexer de nas artes kks~~)
+
+
 
 # Games 
 * Alienzista  
