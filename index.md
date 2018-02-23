@@ -16,7 +16,7 @@ Criando **minha** _página_ ~~principal~~.
 
 # Portifólio
 
-[![](yotube.png)]
+[![](youtube.png)]
 [![](face.png)]
 
 # Artes
