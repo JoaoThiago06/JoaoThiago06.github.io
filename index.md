@@ -18,11 +18,10 @@ Criando **minha** _página_ ~~principal~~.
 ![](aa.gif)
 
 # Games
-[![](alienzista.png)] (https://joaothiago06.github.io/Alienzistas/)
-[![](Ivern_Render.png)](https://pbs.twimg.com/media/DHfTQCrVwAAHzMM.jpg)
+[![](alienzista.png)](https://joaothiago06.github.io/Alienzistas/)   
 [JOGO1]()
 
-# Contatinhos :v
+# Contatinhos S2
 [![](face.png)](https://www.facebook.com/joaothiago.pereira.7)   
 [![](youtube.png)](https://www.youtube.com/channel/UCWCkuhb_VKzn48nZdGiKBwA?view_as=subscriber)
 
