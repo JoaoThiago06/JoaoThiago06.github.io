@@ -19,11 +19,10 @@ Criando **minha** _página_ ~~principal~~.
 
 # Games
 [![](alienzista.png)](https://joaothiago06.github.io/Alienzistas/)
-https://joaothiago06.github.io/Aplistia_/                                                                                            
-* Jogo
+[![](aplistia.png)]https://joaothiago06.github.io/Aplistia_/                                                                                            
 
 
-## Contatinhos S2
+
 [![](face.png)](https://www.facebook.com/joaothiago.pereira.7)   
 [![](youtube.png)](https://www.youtube.com/channel/UCWCkuhb_VKzn48nZdGiKBwA?view_as=subscriber)
 
