@@ -1,12 +1,15 @@
 ---
 layout: default
 ---
-[
+
 Criando **minha** _página_ ~~principal~~.
 
-# Quem sou eu
+# Quem sou eu?
 
-* Aluninho de jogos aprendendo a fazer um portfólio
+* João Thiago de Menezes Pereira
+* Aluninho de Programação de Jogos DIigtais 3º Vespertino
+* 17y :p
+*
 
 # Portifólio
 
