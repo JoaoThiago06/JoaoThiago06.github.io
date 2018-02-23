@@ -17,8 +17,10 @@ Criando **minha** _página_ ~~principal~~.
 # Artes
 ![](aa.gif)
 
-# Games
-[![](alienzista.png)](https://joaothiago06.github.io/Alienzistas/)
+# Games 
+* Alienzista  
+[![](alienzista.png)](https://joaothiago06.github.io/Alienzistas/)  
+* Aplistia  
 [![](aplistia.png)](https://joaothiago06.github.io/Aplistia_/)                                                                                            
 
 
@@ -27,8 +29,7 @@ Criando **minha** _página_ ~~principal~~.
 [![](youtube.png)](https://www.youtube.com/channel/UCWCkuhb_VKzn48nZdGiKBwA?view_as=subscriber)
 
 # Projetos
-## Aulas
-### Proj Teatro
+
 
 1. Marcelo
 2. Saulo
@@ -37,9 +38,9 @@ Criando **minha** _página_ ~~principal~~.
 ** negrito  
 _ italico  
 ~~ riscado  
-3º linha horizontal (barra)
-#s uma ou mais hastags criam capitulos ou subcapitulos
-*s asteriscos criam lista não ordenadas
+3º linha horizontal (barra)  
+#s uma ou mais hastags criam capitulos ou subcapitulos  
+*s asteriscos criam lista não ordenadas  
 
 
 ***
