@@ -9,7 +9,10 @@ Criando **minha** _página_ ~~principal~~.
 * João Thiago de Menezes Pereira
 * Aluninho de Programação de Jogos DIigtais 3º Vespertino
 * 17y :p
-*
+
+##Hobbies
+ * Músico nas horas livres (~~quase nunca né~~), sou baixista, mas toco outros instrumentos :v
+ * É jogo (~~viciado~~) em League of Legends(LOL), add lá: jaum18;
 
 # Portifólio
 
