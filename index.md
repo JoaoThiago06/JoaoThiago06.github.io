@@ -16,8 +16,8 @@ Criando **minha** _página_ ~~principal~~.
 
 # Portifólio
 
-![](face.png)  
-![](youtube.png) 
+![](face.png)(https://www.facebook.com/joaothiago.pereira.7)   
+![](youtube.png)(https://www.youtube.com/channel/UCWCkuhb_VKzn48nZdGiKBwA?view_as=subscriber)
 
 
 
