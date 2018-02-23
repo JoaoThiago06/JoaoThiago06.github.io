@@ -16,9 +16,9 @@ Criando **minha** _página_ ~~principal~~.
 
 # Portifólio
 
-![](instagram.png) 
+![](face.png)  
 ![](youtube.png) 
-![](face.png)
+
 
 
 # Artes
