@@ -10,7 +10,7 @@ Criando **minha** _página_ ~~principal~~.
 * Aluninho de Programação de Jogos DIigtais 3º Vespertino
 * 17y :p
 
-##Hobbies
+## Hobbies
  * Músico nas horas livres (~~quase nunca né~~), sou baixista, mas toco outros instrumentos :v
  * É jogo (~~viciado~~) em League of Legends(LOL), add lá: jaum18;
 
