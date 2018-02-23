@@ -18,7 +18,7 @@ Criando **minha** _página_ ~~principal~~.
 ![](aa.gif)
 
 # Games
-[![](alienzista.png)](https://joaothiago06.github.io/Alienzistas/)   
+[![](alienzista.png)](https://joaothiago06.github.io/Alienzistas/)    Jogo
 [JOGO1]()
 
 # Contatinhos S2
