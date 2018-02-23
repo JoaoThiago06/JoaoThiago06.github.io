@@ -19,7 +19,7 @@ Criando **minha** _página_ ~~principal~~.
 
 # Games
 [![](alienzista.png)](https://joaothiago06.github.io/Alienzistas/)
-[![](aplistia.png)]https://joaothiago06.github.io/Aplistia_/                                                                                            
+[![](aplistia.png)](https://joaothiago06.github.io/Aplistia_/)                                                                                            
 
 
 
