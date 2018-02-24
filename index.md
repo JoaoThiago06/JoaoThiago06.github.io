@@ -30,11 +30,11 @@ https://www.youtube.com/watch?v=HW8QQ3JgRxY
 [![](alienzista.png)](https://joaothiago06.github.io/Alienzistas/)  
 * Aplistia  
 [![](aplistia.png)](https://joaothiago06.github.io/Aplistia_/)    
-* Carol com C
+* Carol com C  
 [![](carol.png)](https://joaothiago06.github.io/CarolcomC/)
 
 **Turret Defense**
-https://joaothiago06.github.io/Turret%20Bacterium/
+[![](torre.png)](https://joaothiago06.github.io/Turret%20Bacterium/)
 
 ## Contatos  
 
