@@ -10,6 +10,7 @@ Criando **minha** _página_ ~~principal~~.
 * João Thiago de Menezes Pereira
 * Aluninho de Programação de Jogos DIigtais 3º Vespertino
 * 17y :p
+* best ft minha (~~acreditem~~)
 
 ## Hobbies
  * Músico nas horas livres (~~quando da né kk~~), sou baixista, mas toco outros instrumentos :v
@@ -41,7 +42,7 @@ https://joaothiago06.github.io/Turret%20Bacterium/
 [![](youtube.png)](https://www.youtube.com/channel/UCWCkuhb_VKzn48nZdGiKBwA?view_as=subscriber)
 
 # Projetos
-* Musical Saltimbancos  
+* Musical Saltimbancos, onde o apelido de "cachorro" segue até hoje :p  
 
 
 
