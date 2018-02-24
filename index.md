@@ -21,7 +21,7 @@ https://www.youtube.com/watch?v=LhwDOCRhH38
 https://www.youtube.com/watch?v=HW8QQ3JgRxY
 
 
-# -Portifólio-
+#                                                       -Portifólio-
 
 
 # Artes
@@ -45,7 +45,7 @@ https://www.youtube.com/watch?v=HW8QQ3JgRxY
 [![](face.png)](https://www.facebook.com/joaothiago.pereira.7)   
 [![](youtube.png)](https://www.youtube.com/channel/UCWCkuhb_VKzn48nZdGiKBwA?view_as=subscriber)
 
-### Projetos
+## Projetos
 * Musical Saltimbancos, onde o apelido de _cachorro_ segue até hoje :p  
 
 
