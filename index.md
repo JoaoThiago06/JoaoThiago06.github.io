@@ -15,11 +15,11 @@ layout: default
  * E jogo (~~viciado~~) League of Legends(LOL), add lá: **jaum18**;
 
 ###  Áudio
-(https://www.youtube.com/watch?v=LhwDOCRhH38)   
-(https://www.youtube.com/watch?v=HW8QQ3JgRxY)
+[![](a.png)(https://www.youtube.com/watch?v=LhwDOCRhH38)   
+[![](aa.png)(https://www.youtube.com/watch?v=HW8QQ3JgRxY)
 
 
-#                                                       -Portifólio-
+# -Portifólio-    
 
 
 # Artes
