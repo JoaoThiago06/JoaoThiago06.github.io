@@ -37,7 +37,7 @@ https://www.youtube.com/watch?v=HW8QQ3JgRxY
 * Carol com C  
 [![](carol.png)](https://joaothiago06.github.io/CarolcomC/)
 
-**Turret Defense**
+* Turret Defense  
 [![](torre.png)](https://joaothiago06.github.io/Turret%20Bacterium/)
 
 ## Contatos  
@@ -45,17 +45,7 @@ https://www.youtube.com/watch?v=HW8QQ3JgRxY
 [![](face.png)](https://www.facebook.com/joaothiago.pereira.7)   
 [![](youtube.png)](https://www.youtube.com/channel/UCWCkuhb_VKzn48nZdGiKBwA?view_as=subscriber)
 
-# Projetos
-* Musical Saltimbancos, onde o apelido de "cachorro" segue até hoje :p  
+### Projetos
+* Musical Saltimbancos, onde o apelido de _cachorro_ segue até hoje :p  
 
 
-
-** negrito  
-_ italico  
-~~ riscado  
-3º linha horizontal (barra)  
-#s uma ou mais hastags criam capitulos ou subcapitulos  
-*s asteriscos criam lista não ordenadas  
-
-
-***
