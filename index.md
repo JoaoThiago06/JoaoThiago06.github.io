@@ -5,7 +5,7 @@ layout: default
 Criando **minha** _página_ ~~principal~~.
 
 # Quem sou eu?
-![](joao.png)  
+![](thiago.png)  
 
 * João Thiago de Menezes Pereira
 * Aluninho de Programação de Jogos DIigtais 3º Vespertino
@@ -47,5 +47,6 @@ https://www.youtube.com/watch?v=HW8QQ3JgRxY
 
 ## Projetos
 * Musical Saltimbancos, onde o apelido de _cachorro_ segue até hoje :p  
+                                                         ![](joao.png) 
 
 
