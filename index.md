@@ -43,7 +43,7 @@ layout: default
 [![](face.png)](https://www.facebook.com/joaothiago.pereira.7)   
 [![](youtube.png)](https://www.youtube.com/channel/UCWCkuhb_VKzn48nZdGiKBwA?view_as=subscriber)  
 (84) 9879-3357  
-email:_joaothiago2015@hotmail.com_  
+email: _joaothiago2015@hotmail.com_  
 
 ## Projetos
 * Musical Saltimbancos, onde o apelido de _cachorro_ segue até hoje :p                              
