@@ -25,7 +25,7 @@ https://www.youtube.com/watch?v=HW8QQ3JgRxY
 
 
 # Artes
-![](aa.gif) (~~não sou muito de mexer de nas artes kks~~)
+![](aa.gif) (~~não sou muito de mexer nas artes kks~~)
 
 
 
