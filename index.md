@@ -46,7 +46,7 @@ https://www.youtube.com/watch?v=HW8QQ3JgRxY
 [![](youtube.png)](https://www.youtube.com/channel/UCWCkuhb_VKzn48nZdGiKBwA?view_as=subscriber)
 
 ## Projetos
-* Musical Saltimbancos, onde o apelido de _cachorro_ segue até hoje :p  
-                                                         ![](joao.png) 
+* Musical Saltimbancos, onde o apelido de _cachorro_ segue até hoje :p                              
+ ![](joao.png) 
 
 
