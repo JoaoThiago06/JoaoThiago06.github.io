@@ -1,38 +1,52 @@
 ---
 layout: default
 ---
-[
-Criando **minha** _página_ ~~principal~~.
 
-# Quem sou eu
+# Quem sou eu?
+![](thiagou.png)  
 
-Aluninho de jogos aprendendo a fazer um portfólio
+* João Thiago de Menezes Pereira
+* Aluninho de Programação de Jogos DIigtais 3º Vespertino
+* 17y :p
+* best ft minha (~~acreditem~~)
 
-# Portifólio
+## Hobbies
+ * Músico nas horas livres (~~quando da né kk~~), sou baixista, mas toco outros instrumentos :v
+ * E jogo (~~viciado~~) League of Legends(LOL), add lá: **jaum18**;
 
-## Artes
+###  Áudio
+[![](a.png)](https://www.youtube.com/watch?v=HW8QQ3JgRxY)   
+[![](aa.png)](https://www.youtube.com/watch?v=LhwDOCRhH38)   
 
-![UNICORN](https://i.pinimg.com/736x/dc/18/ab/dc18abcbf686a86b7df630cf1f10a1b1--pixel-crochet-pattern-crochet-patterns.jpg)
 
-## Games
+# -Portifólio-    
 
-[![](Ivern_Render.png)](https://pbs.twimg.com/media/DHfTQCrVwAAHzMM.jpg)
-[JOGO1]()
+
+# Artes
+![](aa.gif) (~~não sou muito de mexer nas artes kks~~)
+
+
+
+# Games 
+* Alienzista  
+[![](alienzista.png)](https://joaothiago06.github.io/Alienzistas/)  
+* Aplistia  
+[![](aplistia.png)](https://joaothiago06.github.io/Aplistia_/)    
+* Carol com C  
+[![](carol.png)](https://joaothiago06.github.io/CarolcomC/)
+
+* Turret Defense  
+[![](torre.png)](https://joaothiago06.github.io/Turret%20Bacterium/)
+
+## Contatos  
+
+[![](face.png)](https://www.facebook.com/joaothiago.pereira.7)   
+[![](youtube.png)](https://www.youtube.com/channel/UCWCkuhb_VKzn48nZdGiKBwA?view_as=subscriber)  
+(84) 98793-3579  
+email: _joaothiago2015@hotmail.com_  
 
 ## Projetos
-### Aulas
-### Proj Teatro
-
-1. Marcelo
-2. Saulo
-* PAULO
-
-** negrito  
-_ italico  
-~~ riscado  
-3º linha horizontal (barra)
-#s uma ou mais hastags criam capitulos ou subcapitulos
-*s asteriscos criam lista não ordenadas
+* Musical Saltimbancos, onde o apelido de _cachorro_ segue até hoje :p                              
+ ![](jo.png) 
 
 
-***
